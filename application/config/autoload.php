@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
@@ -39,11 +39,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |  $autoload['packages'] = array(APPPATH.'third_party', '/usr/local/shared');
 |
 */
-$autoload['libraries'] = array('database','session');
+$autoload['packages'] = array();
 
 /*
 | -------------------------------------------------------------------
-|  Auto-load Libraries
+|  Auto-load Libraries  
 | -------------------------------------------------------------------
 | These are the classes located in system/libraries/ or your
 | application/libraries/ directory, with the addition of the
@@ -58,7 +58,7 @@ $autoload['libraries'] = array('database','session');
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('database', 'session');
 
 /*
 | -------------------------------------------------------------------
