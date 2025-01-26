@@ -32,4 +32,5 @@ class Jenis extends CI_Controller
             $this->load->view('template/footer');
         }
     }
+    public function ubah($id) {}
 }
