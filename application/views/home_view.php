@@ -1,3 +1,7 @@
+<!--
+home_view.php
+-->
+
 <div class="dashboard-wrapper">
     <div class="container-fluid dashboard-content">
         <!-- ============================================================== -->
@@ -7,7 +11,7 @@
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="page-header">
                     <h2 class="pageheader-title">Blank Pageheader </h2>
-                    <p class="pageheader-text">Proin placerat ante duiullam scelerisque a velit ac porta, fusce sit amet vestibulum mi. Morbi lobortis pulvinar quam.</p>
+                    <p class="pageheader-text">lagi kosong</p>
                     <div class="page-breadcrumb">
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb">
@@ -25,9 +29,9 @@
         <!-- ============================================================== -->
         <div class="row">
             <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
-                <h3 class="text-center">Content goes here!</h3>
+                <h3 class="text-center">Construction</h3>
+
             </div>
         </div>
     </div>
 </div>
- 
